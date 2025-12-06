@@ -6,7 +6,7 @@ daily-algo-notes
 
 ## 📊 统计
 
-![LeetCode CN Stats](https://leetcode-stats-six.vercel.app/api?username=aggressive-i&cn)
+![LeetCode Stats](https://leetcode-badge.chyroc.cn/aggressive-i/solved/all?theme=dark)
 
 | 平台 | 已刷题目 | 简单 | 中等 | 困难 |
 | :--- | :---: | :---: | :---: | :---: |
