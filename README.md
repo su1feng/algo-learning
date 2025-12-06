@@ -6,7 +6,7 @@ daily-algo-notes
 
 ## 📊 统计
 
-![LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=aggressive-i&theme=dark&lang=zh-CN)
+![LeetCode Stats](https://leetcode-badge.haozibi.dev/v1cn/{aggressive-i}.svg)
 
 | 平台 | 已刷题目 | 简单 | 中等 | 困难 |
 | :--- | :---: | :---: | :---: | :---: |
