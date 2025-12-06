@@ -6,7 +6,7 @@ daily-algo-notes
 
 ## 📊 统计
 
-![LeetCode CN Stats](https://leetcode-stats-six.vercel.app/api?username=随风&cn)
+![LeetCode CN Stats](https://leetcode-stats-six.vercel.app/api?username=aggressive-i&cn)
 
 | 平台 | 已刷题目 | 简单 | 中等 | 困难 |
 | :--- | :---: | :---: | :---: | :---: |
